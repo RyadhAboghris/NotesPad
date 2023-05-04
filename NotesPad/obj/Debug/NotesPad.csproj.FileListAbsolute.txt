@@ -1,0 +1,13 @@
+C:\Users\ryadh\Desktop\Projects\U\NotesPad\NotesPad\bin\Debug\NotesPad.exe.config
+C:\Users\ryadh\Desktop\Projects\U\NotesPad\NotesPad\bin\Debug\NotesPad.exe
+C:\Users\ryadh\Desktop\Projects\U\NotesPad\NotesPad\bin\Debug\NotesPad.pdb
+C:\Users\ryadh\Desktop\Projects\U\NotesPad\NotesPad\obj\Debug\NotesPad.csproj.AssemblyReference.cache
+C:\Users\ryadh\Desktop\Projects\U\NotesPad\NotesPad\obj\Debug\NotesPad.csproj.SuggestedBindingRedirects.cache
+C:\Users\ryadh\Desktop\Projects\U\NotesPad\NotesPad\obj\Debug\NotesPad.Form1.resources
+C:\Users\ryadh\Desktop\Projects\U\NotesPad\NotesPad\obj\Debug\NotesPad.Properties.Resources.resources
+C:\Users\ryadh\Desktop\Projects\U\NotesPad\NotesPad\obj\Debug\NotesPad.csproj.GenerateResource.cache
+C:\Users\ryadh\Desktop\Projects\U\NotesPad\NotesPad\obj\Debug\NotesPad.csproj.CoreCompileInputs.cache
+C:\Users\ryadh\Desktop\Projects\U\NotesPad\NotesPad\obj\Debug\NotesPad.exe
+C:\Users\ryadh\Desktop\Projects\U\NotesPad\NotesPad\obj\Debug\NotesPad.pdb
+C:\Users\ryadh\Desktop\Projects\U\NotesPad\NotesPad\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ryadh\Desktop\Projects\U\NotesPad\NotesPad\obj\Debug\NotesPad.csproj.CopyComplete
